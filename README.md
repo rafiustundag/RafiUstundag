@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi, my name is Rafi Üstündağ. I'm an economics student at Bilkent University
 
 <!--
 **rafiustundag/RafiUstundag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
