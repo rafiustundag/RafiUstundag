@@ -1,4 +1,4 @@
-Hi, my name is Rafi Üstündağ. I'm an economics student at Bilkent University
+Hi, my name is Rafi Üstündağ. I'm an junior economics student at Bilkent University. You can see my LinkedIn account: https://www.linkedin.com/in/rafi-üstündağ-a57b0824a/?isSelfProfile=true
 
 <!--
 **rafiustundag/RafiUstundag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
